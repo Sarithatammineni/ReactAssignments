@@ -1,12 +1,9 @@
-import FirstComponent from "./firstComponent";
-
-
+import Mainpage from "./Mainpage";  
 function App() {
   return (
-    <div>
-     <FirstComponent />
-    </div>
+    <>
+      <Mainpage />
+    </>
   );
 }
-
 export default App;
