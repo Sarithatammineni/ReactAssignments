@@ -1,11 +1,7 @@
-import UserData from "./UserData";
+import ColorToggle from "./ColorToggle";
 
 function App() {
-  return (
-    <div>
-      <UserData />
-    </div>
-  );
+  return <ColorToggle />;
 }
 
 export default App;
