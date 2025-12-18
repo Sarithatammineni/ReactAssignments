@@ -1,8 +1,7 @@
-import Counter from "./Counter";
+import StatusToggle from "./StatusToggle";
 
 function App() {
-  return <Counter />;
+  return <StatusToggle />;
 }
 
 export default App;
-
